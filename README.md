@@ -1,1 +1,1 @@
-# network-duck.github.io/Flowers
+# network-duck.github.io/flowers
